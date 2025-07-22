@@ -1,7 +1,7 @@
 # TFM_UNIR
 
 ## Autores
-- **Luis Ramiro Domínguez Leiton**  
+- **Luis Ramiro Dominguez Leiton**  
 - **Daniela Alejandra Tupiza Peralta**  
 
 ## Titulo
@@ -9,7 +9,7 @@ Evaluación Comparativa de Técnicas de Inteligencia Artificial para la Predicci
 
 ## Estructura del repositorio
 
-'''
+```
 TFM_UNIR/
 ├── 00_INICIO/
 │   ├── data.csv
@@ -32,7 +32,7 @@ TFM_UNIR/
         ├── datos_docentes.csv
         ├── datos_facultades.csv
         └── genetico.ipynb               # Implementación de algoritmo genético
-'''
+```
 
 ## Descripción
 
