@@ -9,6 +9,7 @@ Evaluación Comparativa de Técnicas de Inteligencia Artificial para la Predicci
 
 ## Estructura del repositorio
 
+'''
 TFM_UNIR/
 ├── 00_INICIO/
 │   ├── data.csv
@@ -31,8 +32,9 @@ TFM_UNIR/
         ├── datos_docentes.csv
         ├── datos_facultades.csv
         └── genetico.ipynb               # Implementación de algoritmo genético
+'''
 
-## Descreipción
+## Descripción
 
 - **00_INICIO: incluye los archivos originales utilizados para el análisis exploratorio y preparación del dataset general. Contiene los archivos data.csv, data_limpia.csv y el notebook data_analisis.ipynb con el código fuente utilizado para la limpieza y visualización de los datos institucionales.**
 - **01_ESTUDIANTES: dedicada a la fase de predicción del número de estudiantes por curso. Contiene el conjunto de datos procesados (datos_predic_estudiantes.csv), los objetos de entrenamiento (escalador_estus.pkl, m_f_estudiantes.pkl) y el notebook predictor_estudiantes.ipynb que documenta el proceso de entrenamiento, validación y evaluación de modelos de regresión.**
